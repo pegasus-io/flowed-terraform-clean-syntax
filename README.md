@@ -1,3 +1,11 @@
+# Foreword
+
+I forked https://github.com/apparentlymart/terraform-clean-syntax to :
+* git clone it a thousand times faster, from my own infra
+* git clone it with an accurate version : I needed at least on release on this recipe, I never git clone a dependency without an inambiguous version number.
+
+
+
 # `terraform-clean-syntax`
 
 `terraform-clean-syntax` is a simple command line tool for performing some
